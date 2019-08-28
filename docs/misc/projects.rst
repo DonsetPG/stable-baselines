@@ -126,8 +126,8 @@ Reinforcement learning is used to train agents to control pistons attached to a 
 Fenics-DRL: Fluid mechanics and Deep Reinforcement Learning
 -----------------------------------------------------------
 
-Deep Reinforcement Learning is used to train agents to control the position or the shape of obstacles in different fluids. `Fenics <https://fenicsproject.org>`_ is used for the Fluid Mechanics part, and Stable Baselines is used for the DRL. 
-We hope to keep using it but with other Fluid Mechanics libraries. 
+Deep Reinforcement Learning is used to control the position or the shape of obstacles in different fluids in order to optimize drag or lift. `Fenics <https://fenicsproject.org>`_ is used for the Fluid Mechanics part, and Stable Baselines is used for the DRL.
+
 
 | Authors: Paul Garnier, Jonathan Viquerat, Aurélien Larcher, Elie Hachem
 | Email: paul.garnier@mines-paristech.fr
